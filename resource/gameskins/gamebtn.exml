@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="gamebtnSkin" states="up,down,disabled" minHeight="50" minWidth="100" currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height="154">
+	<e:Image id="iconDisplay" x="0" y="0" anchorOffsetX="0" width="300" width.down="330"  anchorOffsetY="0" height="154" height.down="169" fillMode="scale" source="reset_png"/>
+	<e:Label id="btnname" top="8" bottom="12" size="47" textColor="0xFFFFFF" verticalAlign="middle" textAlign="center" anchorOffsetX="0" fontFamily="Arial" text="" horizontalCenter="1"/>
+
+	<w:Config id="165636dd0b7" ></w:Config>
+</e:Skin>
